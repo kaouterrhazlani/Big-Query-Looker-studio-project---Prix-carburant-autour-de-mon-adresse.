@@ -26,7 +26,7 @@ Les données ont été extraites et nettoyées dans BigQuery, puis visualisées 
 ## ⚙️ Stack technique
 
 - **📂 Source de données :** Fichier CSV (prix carburant)
-- **🛠️ Traitement :** BigQuery (nettoyage, requêtes SQL)
+- **🛠️ Traitement :** Excel , BigQuery (nettoyage, requêtes SQL)
 - **📈 Visualisation :** Looker Studio
 - **📍 Localisation :** Marseille & département 13 (France)
 
