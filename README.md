@@ -17,7 +17,7 @@ Les données ont été extraites et nettoyées dans BigQuery, puis visualisées 
 ## 📊 Dashboard interactif
 
 🖥️ **Accéder au tableau de bord :**  
-👉 [Cliquez ici pour découvrir le dashboard Looker Studio](https://lookerstudio.google.com/u/0/reporting/7af66dd5-3b4d-404f-80dc-c5653d0cb473/page/7EAvE](https://lookerstudio.google.com/u/0/reporting/7af66dd5-3b4d-404f-80dc-c5653d0cb473/page/7EAvE)
+👉 [Cliquez ici pour découvrir le dashboard Looker Studio](https://lookerstudio.google.com/u/0/reporting/7af66dd5-3b4d-404f-80dc-c5653d0cb473/page/7EAvE)
 
 💡 *Ce projet est accessible gratuitement.*
 
